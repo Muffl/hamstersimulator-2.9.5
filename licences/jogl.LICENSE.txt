@@ -1,4 +1,4 @@
-The JOGL source code is mostly licensed under the 'New BSD 2-Clause License',
+﻿The JOGL source code is mostly licensed under the 'New BSD 2-Clause License',
 however it contains other licensed material as well.
 
 Other licensed material is compatible with the 'New BSD 2-Clause License',
@@ -168,7 +168,8 @@ L.5) The JOGL source tree also contains a Java port of Brian Paul's Tile
    
    - Redistribution in binary form must reproduce the above copyright
      notice, this list of conditions and the following disclaimer in the
-     documentation and/or other materials provided with the distribution.
+   
+	  documentation and/or other materials provided with the distribution.
    
    Neither the name of Brian Paul or the names of contributors may be
    used to endorse or promote products derived from this software
